@@ -1,10 +1,8 @@
 #include<stdio.h>
 /**
- * Program that uses the puts function to print
- *
- * main - Entry point
- *
- * Return: 0 
+* main - Entry point
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
